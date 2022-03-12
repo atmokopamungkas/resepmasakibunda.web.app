@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "resepmasakibunda",	  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
